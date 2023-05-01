@@ -1,2 +1,1 @@
-# multiclass-disease-classification-using-cnn-batch-normaliztion
-# Multi Class Disease Classification
+# Multi Class Disease Classification Using CNN+Batch Normalization
